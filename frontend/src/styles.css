@@ -2,16 +2,16 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&family=SN+Pro:wght@200..900&family=Space+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
 :root {
-    --primary: #c06226;
-    --primary-dark: #984619;
-    --background: #eae0c7;
+    --primary: #4ca771;
+    --primary-dark: #013237;
+    --background: #c0e6ba;
     --white: #ffffff;
     --text: #333333;
     --text-light: #666666;
     --border: #dddddd;
 
-    --login-text: #2e211c;
-    --login-text-light: #9cb8b7;
+    --login-text: #222223;
+    --login-text-light: #c0e6ba;
 }
 
 body {
